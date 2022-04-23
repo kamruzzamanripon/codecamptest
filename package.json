@@ -1,0 +1,24 @@
+{
+  "name": "newone",
+  "version": "1.0.0",
+  "description": "for freecodecamp test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "exam",
+    "repository",
+    "middleware"
+  ],
+  "author": "syed kamruzzaman",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fcc-express-bground": "^0.0.5",
+    "moment": "^2.29.3"
+  }
+}
